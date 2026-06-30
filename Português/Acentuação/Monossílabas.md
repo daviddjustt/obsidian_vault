@@ -1,5 +1,5 @@
 Semelhante às [[Oxítona]], se terminar em : A(s), E(s), O(s).
-Neste caso, o monossílabo tônico torna-se a [[sílaba tônica]].
+Neste caso, o monossílabo tônico torna-se a [[Sílaba tônica]]
 
 As palavras monossílabas tônicas são pronunciadas com muita intensidade e podem ou não ser acentuadas:
 

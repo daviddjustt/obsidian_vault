@@ -1,4 +1,4 @@
-As  Proparoxítona sempre tem a antepenúltima [[sílaba tônica]] acentuada. 
+As  Proparoxítona sempre tem a antepenúltima [[Sílaba tônica]] acentuada. 
 Todas as proparoxítonas tem acento
 
 Exemplos :  
