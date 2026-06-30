@@ -11,10 +11,14 @@
             "id": "ae1e4d42649b5ee0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Português/Acentuação/Oxítona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oxítona"
             }
           }
         ]
@@ -189,6 +193,11 @@
   },
   "active": "ae1e4d42649b5ee0",
   "lastOpenFiles": [
+    "Português/Acentuação/Monossílabas.md",
+    "Português/Acentuação/Proparoxítona.md",
+    "Português/Acentuação/Paroxítona.md",
+    "Português/Acentuação/Oxítona.md",
+    "Português/Acentuação",
     "2026-06-30.md",
     "Português/Dígrafos",
     "Português",

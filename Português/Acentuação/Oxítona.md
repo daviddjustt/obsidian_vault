@@ -1,0 +1,1 @@
+As oxítonas sempre tem a última sílaba toônica
