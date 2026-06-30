@@ -1,4 +1,4 @@
-Seguindo o conceito da [[Teoria dos Dígrafos|Teoria dos Dígrafos]], os [[Dígrafo Vogal]], tem como principal caracteristica as vogais nasais. 
+Seguindo o conceito da [[Teoria dos Dígrafos|Teoria dos Dígrafos]], os [[Dígrafo Vogal]], tem como principal característica as vogais nasais. 
 Exemplos de dígrafos com vogais:
 
 | Dígrafo  | Exemplo            |

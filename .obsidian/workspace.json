@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Acentuação/Oxítona.md",
+                "file": "Português/Encontros vocálicos/Teoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oxítona"
+              "title": "Teoria"
             }
           }
         ]
@@ -193,21 +193,23 @@
   },
   "active": "ae1e4d42649b5ee0",
   "lastOpenFiles": [
+    "Português/Dígrafos/Dígrafo Vogal.md",
+    "Português/Encontros vocálicos/Teoria.md",
+    "Português/Encontros vocálicos",
+    "Português/Dígrafos/Teoria dos Dígrafos.md",
+    "Português/Dígrafos/Dígrafo Consonantal.md",
+    "Português/Acentuação/Monossílabas.md",
+    "Português/Acentuação/Oxítona.md",
     "Português/Acentuação/Paroxítona.md",
     "Português/Acentuação/Hífen.md",
-    "Português/Acentuação/Monossílabas.md",
     "Português/Acentuação/Proparoxítona.md",
-    "Português/Acentuação/Oxítona.md",
     "Português/Acentuação",
     "2026-06-30.md",
     "Português/Dígrafos",
     "Português",
-    "Português/Dígrafos/Dígrafo Consonantal.md",
     "Sem título 1.base",
     "Sem título.base",
     "Sem título.canvas",
-    "Português/Dígrafos/Teoria dos Dígrafos.md",
-    "README.md",
-    "Português/Dígrafos/Dígrafo Vogal.md"
+    "README.md"
   ]
 }
