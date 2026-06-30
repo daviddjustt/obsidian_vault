@@ -11,17 +11,35 @@
             "id": "ae1e4d42649b5ee0",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "9a3f6f9740ea6116",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Encontros vocálicos/Ditongo.md",
+                "file": "TesteSem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ditongo"
+              "title": "TesteSem título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae1e4d42649b5ee0",
+  "active": "9a3f6f9740ea6116",
   "lastOpenFiles": [
+    "Sem título.canvas",
+    "TesteSem título.md",
+    "Português/Encontros vocálicos/Ditongo.md",
     "Português/Acentuação/Proparoxítona.md",
     "Português/Acentuação/Paroxítona.md",
     "Português/Acentuação/Oxítona.md",
@@ -200,7 +221,6 @@
     "Português/Acentuação/Hífen.md",
     "Português/Encontros vocálicos/Hiato.md",
     "Português/Encontros vocálicos/Tritongo.md",
-    "Português/Encontros vocálicos/Ditongo.md",
     "Português/Encontros vocálicos/Sílaba tônica.md",
     "vogal.md",
     "Português/Encontros vocálicos/Vogais.md",
@@ -218,7 +238,6 @@
     "Português",
     "Sem título 1.base",
     "Sem título.base",
-    "Sem título.canvas",
     "README.md"
   ]
 }
